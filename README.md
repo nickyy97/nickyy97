@@ -1,3 +1,4 @@
+# Nuwan Sirimanna
 - 👋 Hi, I'm Nuwan Sirimanna and I'm a developer.
 - 🔭 I really enjoy learning new languages and frameworks like angular, react, vue and more and more.
 
